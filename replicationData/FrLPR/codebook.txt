@@ -1,0 +1,26 @@
+Codebook for The Impact of Cuing Candidate Quality on Female Candidates Data
+Authors: Patrick Cunha Silva and Brian F. Crisp
+
+country: Country Name
+year: Election Year 
+district: District Name
+party: Party Name
+dy: District-Year Indicator
+dpy: District-Year-Party Indicator
+magnitude: District Magnitude
+logM: District Magnitude (Log)
+name: Candidate's name
+female: Candidate is a woman
+prerank: Pre-Electoral Rank
+rankpost: Post-Electoral Rank
+rankdif: Rank Change (Post-Electoral - Pre-Electoral Rank)
+pvotes_perc: Candidate's Vote Share (Party Vote Share) 
+dvotes_perc: Candidate's Vote Share (District Vote Share)
+topTier: Female candidate in the Top Tier (Party List Level)
+incumbent: Candidate is an incumbent
+fcopartisan_p: % of Female Copartisan (District)
+female_perc: % of Female Candidates (District)
+distTop: Female candidate in the Top Tier (District Level)
+topTierInd: Candidate is at the top tier (if candidate is female)
+rankdif_mag: Rank Change (Post-Electoral - Pre-Electoral Rank), Scaled
+roomUPmag: Space to Move Upward, Scaled
